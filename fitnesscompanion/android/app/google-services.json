@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699232870648",
+    "firebase_url": "https://fitnesscompanion-bd51f.firebaseio.com",
+    "project_id": "fitnesscompanion-bd51f",
+    "storage_bucket": "fitnesscompanion-bd51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699232870648:android:c19c9c83ab93ae173edb0d",
+        "android_client_info": {
+          "package_name": "com.project.fitnesscompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699232870648-0lqqubh4naopmj33q5huf4qd29fsleh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.fitnesscompanion",
+            "certificate_hash": "e74f8934059b24b224f5abdfdae1366e29b2437a"
+          }
+        },
+        {
+          "client_id": "699232870648-0lv7g98aui0kld5vaeh0lde7jh5hatl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiq1vU9ML6leK3rzZGGKKAkcdRWFFbzAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699232870648-0lv7g98aui0kld5vaeh0lde7jh5hatl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
